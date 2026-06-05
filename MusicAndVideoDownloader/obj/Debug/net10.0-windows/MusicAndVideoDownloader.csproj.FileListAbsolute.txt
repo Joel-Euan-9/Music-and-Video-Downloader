@@ -1,0 +1,16 @@
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\bin\Debug\net10.0-windows\MusicAndVideoDownloader.exe
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\bin\Debug\net10.0-windows\MusicAndVideoDownloader.deps.json
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\bin\Debug\net10.0-windows\MusicAndVideoDownloader.runtimeconfig.json
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\bin\Debug\net10.0-windows\MusicAndVideoDownloader.dll
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\bin\Debug\net10.0-windows\MusicAndVideoDownloader.pdb
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.Form1.resources
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.csproj.GenerateResource.cache
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.AssemblyInfoInputs.cache
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.AssemblyInfo.cs
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.csproj.CoreCompileInputs.cache
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.dll
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\refint\MusicAndVideoDownloader.dll
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.pdb
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\MusicAndVideoDownloader.genruntimeconfig.cache
+C:\Users\joele\source\repos\MusicAndVideoDownloader\MusicAndVideoDownloader\obj\Debug\net10.0-windows\ref\MusicAndVideoDownloader.dll
